@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://GilbertoRosendo.github.io/preloaderJSLottie/Animation - 1725556783538.json',
+        path: 'https://gilbertorosendo.github.io/preloaderJSLottie/Animation-1725556783538.json',
     });
 }
 
